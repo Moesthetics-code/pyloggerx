@@ -21,7 +21,7 @@ PyLoggerX est un wrapper puissant qui étend le module logging standard de Pytho
   - [Stack d'Observabilité](#stack-dobservabilité)
   - [Infrastructure as Code](#infrastructure-as-code)
 - [Guide d'Utilisation Complet](#guide-dutilisation-complet)
-- [Logging Distant (v3.0+)](#logging-distant-v30)
+- [Logging Distant](#logging-distant-v30)
 - [Fonctionnalités Avancées](#fonctionnalités-avancées)
 - [Référence de Configuration](#référence-de-configuration)
 - [Configuration Avancée](#configuration-avancée)
@@ -1641,7 +1641,7 @@ print(f"Total opérations: {stats['total_operations']}")
 
 ---
 
-## Logging Distant (v3.0+)
+## Logging Distant
 
 ### Elasticsearch
 
