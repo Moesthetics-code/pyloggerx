@@ -2104,7 +2104,6 @@ worker_logger.info("Job traité", job_id="job_123")
 
 ---
 
-```markdown
 # Configuration Avancée et Monitoring - PyLoggerX
 
 ## Configuration Avancée
