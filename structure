@@ -1,0 +1,31 @@
+# Structure du projet PyLoggerX
+# 
+# pyloggerx/
+# ├── pyloggerx/
+# │   ├── __init__.py
+# │   ├── core.py
+# │   ├── formatters.py
+# │   ├── handlers.py
+# │   ├── exporters.py       
+# │   ├── filters.py         
+# │   ├── adapters.py        
+# │   └── utils.py
+# ├── tests/
+# │   ├── __init__.py
+# │   ├── test_core.py
+# │   ├── test_formatters.py
+# │   ├── test_exporters.py
+# │   └── test_handlers.py
+# ├── examples/
+# │   ├── basic_usage.py
+# │   ├── advanced_usage.py
+# │   ├── json_logging.py
+# │   ├── elasticsearch_example.py 
+# │   └── sentry_example.py       
+# ├── setup.py
+# ├── setup.cfg
+# ├── pyproject.toml
+# ├── README.md
+# ├── LICENSE
+# ├── MANIFEST.in
+# └── requirements.txt
